@@ -1,0 +1,55 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.fada.menuhelp.Slide5Fragment"
+    android:background="#232040">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity= "center_horizontal"
+        android:drawSelectorOnTop="true"
+        android:typeface="serif"
+        android:ems="8"
+        android:text="@string/revisa_el_historial_y_el_detalle_de_tus_transacciones_de_manera_ordenada"
+        android:longClickable="false"
+        android:textStyle="italic"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="80dp"
+        android:gravity="center"
+        android:textSize="18sp"
+        android:scrollbars = "vertical"/>
+
+
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity= "center"
+        android:drawSelectorOnTop="true"
+        android:typeface="serif"
+        android:ems="6"
+        android:text="@string/usa_la_aplicaci_n_y_aprovecha_de_promociones_exclusivos_para_los_miembros_de_tingoid"
+        android:longClickable="false"
+        android:textStyle="italic"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="100dp"
+        android:textSize="18sp"
+        android:scrollbars = "vertical"/>
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="133dp"
+        android:layout_height="138dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="@string/tickets_usados_o_disponibles"
+        app:srcCompat="@android:drawable/ic_dialog_dialer" />
+
+</FrameLayout>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MenuHelp</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bienvenido_a_tingo_id">¡Bienvenido a Tingo ID!</string>
+    <string name="bienvenid_a">Bienvenid@ a</string>
+    <string name="almacena_todos_tus_tickets_y_boletos_para_val_darlos_usando_tu_identificaci_n_personal_y_nica">Almacena todos tus tickets y boletos para valídarlos usando tu identificación personal y ÚNICA.</string>
+    <string name="al_elegir_la_opci_n_registrar_basta_con_llenar_los_campos_espec_ficos_ya_tienes_tu_sesi_n_iniciada_y_est_s_listo_para_usar_tid">Al elegir la opción Registrar basta con llenar los campos específicos. Ya tienes tu sesión iniciada y estás listo para usar TID.</string>
+    <string name="este_es_mi_tingo">¡Este es mi Tingo!</string>
+    <string name="este_es_mi_tinket">¡Este es mi Tinket!</string>
+    <string name="tienes_un_lapso_de_5_minutos_para_efectuar_la_transacci_n_ntranquilo_puedes_mostrarlo_las_veces_que_quieras">Tienes un lapso de 5 minutos para efectuar la transacción.  Tranquilo, puedes mostrarlo las veces que quieras.</string>
+    <string name="cuando_est_s_en_la_fila_para_validar_tu_entrada_o_boleta_abre_la_opci_n_mostrar_tinket_para_que_generes_tu_qr_de_identificaci_n_personal">Cuando estés en la fila para validar tu entrada o boleta, abre la opción Mostrar Tinket para que generes tu QR de identificación personal.</string>
+    <string name="en_iniciar_sesi_n_basta_con_completar_con_los_datos_de_registro_es_suficiente_con_que_lo_hagas_s_lo_una_vez">En Iniciar Sesión basta con completar con los datos de registro. Es suficiente con que lo hagas sólo una vez.</string>
+    <string name="al_elegir_la_opci_n_registrar_llena_con_los_campos_estipulados_y_ya_est_s_usando_tingoid">Al elegir la opción Registrar llena con los campos estipulados y ya estás usando TingoId.</string>
+    <string name="revisa_el_historial_y_el_detalle_de_tus_transacciones_de_manera_ordenada">Revisa el historial y el detalle de tus transacciones de manera ordenada.</string>
+    <string name="con_la_opci_n_almacenar_ticket_abre_la_c_mara_de_tu_dispositivo_y_almacena_tus_compras_escaneando_el_c_digo_asociado_ya_lo_tienes_guardado_y_siempre_a_la_mano">Con la opción Almacenar Ticket abre la cámara de tu dispositivo y almacena tus compras escaneando el código asociado. Ya lo tienes guardado y siempre a la mano.</string>
+    <string name="usa_la_aplicaci_n_y_aprovecha_de_promociones_exclusivos_para_los_miembros_de_tingoid">Usa la aplicación y aprovecha de promociones exclusivos para los miembros de TingoID</string>
+    <string name="tickets_usados_o_disponibles">Tickets usados o disponibles</string>
+    <string name="qr_personal">QR personal</string>
+    <string name="botones_registro_e_iniciar_sesi_n">Botones Registro e Iniciar Sesión</string>
+    <string name="mant_n_tus_tickets_siempre_a_mano">Mantén tus tickets siempre a mano</string>
+</resources>
