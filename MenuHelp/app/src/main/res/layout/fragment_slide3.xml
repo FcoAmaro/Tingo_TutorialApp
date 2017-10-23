@@ -3,8 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.fada.menuhelp.Slide3Fragment"
-    android:background="#f3974a">
+    tools:context="com.example.fada.menuhelp.Slide2Fragment"
+    android:background="#ffffdd">
 
     <!-- TODO: Update blank fragment layout -->
 
@@ -17,11 +17,11 @@
         android:drawSelectorOnTop="true"
         android:typeface="serif"
         android:ems="8"
-        android:text="@string/con_la_opci_n_almacenar_ticket_abre_la_c_mara_de_tu_dispositivo_y_almacena_tus_compras_escaneando_el_c_digo_asociado_ya_lo_tienes_guardado_y_siempre_a_la_mano"
+        android:text="@string/lo_primero_que_debes_hacer_es_almacenar_los_tickets_que_tienes_en_tu_poder_selecciona_la_opci_n_almacenar_compra_para_abrir_la_camara_de_tu_dipositivo_y_escanear_el_c_digo_asociado"
         android:longClickable="false"
         android:textStyle="italic"
         android:gravity="center"
-        android:textColor="@android:color/white"
+        android:textColor="@android:color/black"
         android:layout_marginTop="100dp"
         android:textSize="18sp"
         android:scrollbars = "vertical"/>
@@ -33,4 +33,5 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="80dp"
         app:srcCompat="@mipmap/ic_launcher" />
+
 </FrameLayout>

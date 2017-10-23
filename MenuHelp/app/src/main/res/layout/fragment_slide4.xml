@@ -46,7 +46,7 @@
         android:gravity="center"
         android:longClickable="false"
         android:scrollbars="vertical"
-        android:text="@string/cuando_est_s_en_la_fila_para_validar_tu_entrada_o_boleta_abre_la_opci_n_mostrar_tinket_para_que_generes_tu_qr_de_identificaci_n_personal"
+        android:text="@string/cuando_est_s_en_la_fila_para_validar_tu_entrada_o_boleta_abre_la_opci_n_mostrar_tid_para_exponer_tu_qr_personal"
         android:textColor="@android:color/black"
         android:textSize="18sp"
         android:textStyle="italic"

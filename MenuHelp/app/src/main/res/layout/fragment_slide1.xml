@@ -20,8 +20,8 @@
         android:longClickable="false"
         android:textStyle="bold"
         android:textColor="@android:color/white"
-        android:layout_marginTop="80dp"
         android:textSize="42sp"
+        android:layout_marginTop="80dp"
         android:scrollbars = "vertical"/>
 
 
@@ -39,8 +39,8 @@
         android:textStyle="italic"
         android:gravity="center"
         android:textColor="@android:color/white"
-        android:layout_marginTop="100dp"
         android:textSize="21sp"
+        android:layout_marginTop="100dp"
         android:scrollbars = "vertical"/>
 
     <ImageView
@@ -48,9 +48,10 @@
         android:layout_width="208dp"
         android:layout_height="96dp"
         android:layout_gravity="center"
-        android:layout_marginBottom="60dp"
+        android:layout_marginBottom="25dp"
         app:srcCompat="@drawable/tingo_logo"
         android:contentDescription="@string/mant_n_tus_tickets_siempre_a_mano" />
+
 
 
 </FrameLayout>

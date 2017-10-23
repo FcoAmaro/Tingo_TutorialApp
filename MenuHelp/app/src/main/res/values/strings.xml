@@ -22,4 +22,8 @@
     <string name="qr_personal">QR personal</string>
     <string name="botones_registro_e_iniciar_sesi_n">Botones Registro e Iniciar Sesión</string>
     <string name="mant_n_tus_tickets_siempre_a_mano">Mantén tus tickets siempre a mano</string>
+    <string name="lo_primero_que_debes_hacer_es_almacenar_los_tickets_que_tienes_en_tu_poder_selecciona_la_opci_n_almacenar_compra_para_abrir_la_camara_de_tu_dipositivo_y_escanear_el_c_digo_asociado">Lo primero que debes hacer es almacenar los tickets que tienes en tu poder. Selecciona la opción Almacenar Compra para abrir la camara de tu dipositivo y escanear el código asociado.</string>
+    <string name="ahora_lo_que_tienes_es_un_tinket_la_manera_que_tiene_tingoid_para_cuidar_y_gestionar_tus_adquisiciones">Ahora lo que tienes es un Tinket: la manera que tiene TingoID para cuidar y gestionar tus adquisiciones</string>
+    <string name="cada_vez_que_almacenes_una_nueva_compra_la_podr_s_visualizar_en_tus_tinkets_disponibles_donde_adem_s_puedes_revisar_los_detalles_asociados">Cada vez que almacenes una nueva compra la podrás visualizar en tus Tinkets disponibles, donde además puedes revisar los detalles asociados.</string>
+    <string name="cuando_est_s_en_la_fila_para_validar_tu_entrada_o_boleta_abre_la_opci_n_mostrar_tid_para_exponer_tu_qr_personal">Cuando estés en la fila para validar tu entrada o boleta, abre la opción Mostrar TID para exponer tu QR personal.</string>
 </resources>

@@ -3,10 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.fada.menuhelp.Slide2Fragment"
-    android:background="#ffffdd">
+    tools:context="com.example.fada.menuhelp.Slide3Fragment"
+    android:background="#f3974a">
 
     <!-- TODO: Update blank fragment layout -->
+
 
     <TextView
         android:id="@+id/textView3"
@@ -16,11 +17,11 @@
         android:drawSelectorOnTop="true"
         android:typeface="serif"
         android:ems="8"
-        android:text="@string/al_elegir_la_opci_n_registrar_llena_con_los_campos_estipulados_y_ya_est_s_usando_tingoid"
+        android:text="@string/ahora_lo_que_tienes_es_un_tinket_la_manera_que_tiene_tingoid_para_cuidar_y_gestionar_tus_adquisiciones"
         android:longClickable="false"
         android:textStyle="italic"
         android:gravity="center"
-        android:textColor="@android:color/black"
+        android:textColor="@android:color/white"
         android:layout_marginTop="80dp"
         android:textSize="18sp"
         android:scrollbars = "vertical"/>
@@ -42,14 +43,12 @@
         android:drawSelectorOnTop="true"
         android:typeface="serif"
         android:ems="8"
-        android:text="@string/en_iniciar_sesi_n_basta_con_completar_con_los_datos_de_registro_es_suficiente_con_que_lo_hagas_s_lo_una_vez"
+        android:text="@string/cada_vez_que_almacenes_una_nueva_compra_la_podr_s_visualizar_en_tus_tinkets_disponibles_donde_adem_s_puedes_revisar_los_detalles_asociados"
         android:longClickable="false"
         android:textStyle="italic"
         android:gravity="center"
-        android:textColor="@android:color/black"
+        android:textColor="@android:color/white"
         android:layout_marginTop="100dp"
         android:textSize="18sp"
         android:scrollbars = "vertical"/>
-
-
 </FrameLayout>
