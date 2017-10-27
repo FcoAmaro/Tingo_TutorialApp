@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <color name="celesteTid">#0ABABA</color>
+    <color name="cremaTid">#FFFFDD</color>
+    <color name="naranjaTid">#F3974A</color>
+    <color name="claroTid">#DDEEEE</color>
+    <color name="oscuroTid">#232040</color>
+
+    <color name="activo">#fffafa</color>
+    <color name="inactivo">#83878B</color>
+</resources>
